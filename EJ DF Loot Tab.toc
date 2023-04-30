@@ -1,3 +1,0 @@
-## Interface: 100005
-## Title: EJ DF Loot Tab
-core.lua
